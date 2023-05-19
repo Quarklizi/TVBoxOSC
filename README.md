@@ -46,6 +46,10 @@ Leezn在线配置地址(python)：https://leezn.github.io/TVBox/py.json
 
 Leezn在线配置地址(drpy2)：https://leezn.github.io/TVBox/js.json
 
+http://刚刚.live/猫
+
+http://itvbox.cc/tvbox/云星日记/1.m3u8
+
 开始使用
 
 离线配置
